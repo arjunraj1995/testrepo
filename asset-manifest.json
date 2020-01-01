@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/testrepo/static/css/main.91e47038.chunk.css",
+    "main.js": "/testrepo/static/js/main.e858a7ac.chunk.js",
+    "main.js.map": "/testrepo/static/js/main.e858a7ac.chunk.js.map",
+    "runtime-main.js": "/testrepo/static/js/runtime-main.61a2c48a.js",
+    "runtime-main.js.map": "/testrepo/static/js/runtime-main.61a2c48a.js.map",
+    "static/js/2.c74b795d.chunk.js": "/testrepo/static/js/2.c74b795d.chunk.js",
+    "static/js/2.c74b795d.chunk.js.map": "/testrepo/static/js/2.c74b795d.chunk.js.map",
+    "index.html": "/testrepo/index.html",
+    "precache-manifest.937dc8202f03a0d85096ad4240c5a04d.js": "/testrepo/precache-manifest.937dc8202f03a0d85096ad4240c5a04d.js",
+    "service-worker.js": "/testrepo/service-worker.js",
+    "static/css/main.91e47038.chunk.css.map": "/testrepo/static/css/main.91e47038.chunk.css.map",
+    "static/js/2.c74b795d.chunk.js.LICENSE": "/testrepo/static/js/2.c74b795d.chunk.js.LICENSE",
+    "static/media/logo.svg": "/testrepo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61a2c48a.js",
+    "static/js/2.c74b795d.chunk.js",
+    "static/css/main.91e47038.chunk.css",
+    "static/js/main.e858a7ac.chunk.js"
+  ]
+}
